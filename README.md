@@ -116,6 +116,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 | GDG Madeira | [View Now](https://gdgmadeira.xyz/) |
 | GDG Chandigarh | [View Now](https://gdg-chd.web.app/) |
 | GDG Rochester | [View Now](https://gdgrochester.com/) |
+| GDG Calgary | [View Now](https://gdgyyc.com/) |
 
 
 
