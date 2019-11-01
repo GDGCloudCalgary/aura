@@ -1,31 +1,21 @@
 {
     "ChapterName":"GDG Cloud Calgary",
     "ChapterShortDescription":"Google Developers Group Calgary is an initiative to concentrate the efforts of many developers in and around Calgary to learn, share and get productive using the various Google products.",
-    "ChapterLongDec":"Google Developer Group Calgary is inspired by GTUG/GDG Family . We started our journey in Feb 2011. We try to engage student developers, fresh graduates and professionals through our hack events & meetups. The motive is to create a local ecosystem of programmers & hackers in and around Calgary. The technology awareness is main goal for first few years of the group.",
-    "ChapterMeetupLink":"https://www.meetup.com/GDGCloudCalgary",
-    "ChapterEmail":"gdgCalgary@gmail.com",
-    "website":"https://gdgCalgary.com",
+    "ChapterLongDec":"Google Developer Group Calgary is inspired by GTUG/GDG Family. We started our journey in January 2017. We are here to advance Calgary's developers, data scientists and cloud architects with their Google Cloud and Cloud Native technology, tools and frameworks and facilitate Building What's Next and Transformation of Legacy. We’re not satisfied until GDGYYC is a world-class developer community. It’s what we’re here to do.",
+    "ChapterMeetupLink":"https://www.meetup.com/gdgyyc",
+    "ChapterEmail":"team@gdgyyc.com",
+    "website":"https://gdgyyc.com",
     "GDGProgramWebsite":"https://developers.google.com/programs/community/",
-    "ChapterHashTags":["GDGCalgary","WTMCalgary","GDG","WTM"],
+    "ChapterHashTags":["GDGYYC","WTMYYC","GDG","WTM"],
     "socialLinks":[
         {
-            "name" : "Facebook",
-            "link" : "https://www.facebook.com/GDGCalgary/",
-            "icon" : "fab fa-facebook"
-        },
-        {
-            "name" : "Google Plus",
-            "link" : "https://plus.google.com/u/0/+GdgCalgaryIn/posts",
-            "icon" : "fab fa-google-plus"
-        },
-        {
             "name" : "Twitter",
-            "link" : "https://twitter.com/gdgCalgary",
+            "link" : "https://twitter.com/gdgcloudyyc",
             "icon" : "fab fa-twitter"
         },
         {
             "name" : "Meetup",
-            "link" : "https://www.meetup.com/GDG-Calgary/",
+            "link" : "https://www.meetup.com/gdgyyc",
             "icon" : "fab fa-meetup"
         }
     ],
